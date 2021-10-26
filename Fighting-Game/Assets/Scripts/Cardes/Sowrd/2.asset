@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee62aa2d6674ff54f83e1fd81c98bcc1, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  ID: 1
+  price: 500
+  image: {fileID: 21300000, guid: d94e6fbe9bbd07847b62f55843f92265, type: 3}
+  isPurchased: 0
+  model_UI: {fileID: 9165027939182741757, guid: ac3224a91dbf6624a96932a39e85224f,
+    type: 3}
+  model: {fileID: 7999585972708563890, guid: e1c639ea8924b4b46ab394f3aa447d63, type: 3}
+  VFX: {fileID: 5606393518282787918, guid: d463717938c6bf84182d39175c1ab8e5, type: 3}
+  VFXtime: 1
+  Damageamount: 40

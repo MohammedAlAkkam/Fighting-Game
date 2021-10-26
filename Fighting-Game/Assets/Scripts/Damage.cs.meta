@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acaa202119473c64599c9376cfdd8ea7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Addhealth: {fileID: 6820853493779470127, guid: 02d38eda8b071d54487a633c270b138d,
+      type: 3}
+  - controller: {instanceID: 0}
+  - Health_UI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

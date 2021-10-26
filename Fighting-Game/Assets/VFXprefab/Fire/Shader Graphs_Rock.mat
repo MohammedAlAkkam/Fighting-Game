@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_Rock
+  m_Shader: {fileID: -6465566751694194690, guid: b36199d786076e649b845a3402f7ef2f,
+    type: 3}
+  m_ShaderKeywords: _COLORADDSUBDIFF_ON _EMISSION
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - ALWAYS
+  - SHADOWCASTER
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_E600E884:
+        m_Texture: {fileID: 2800000, guid: aa580198305a380449fa185fa2eb8369, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_EF6A0805:
+        m_Texture: {fileID: 2800000, guid: 68780d9b8c19f4f4d873412d9bc90f83, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Color_73152419: {r: 9.685684, g: 3.9149947, b: 1.5076773, a: 1}
+    - Vector2_758E51B3: {r: 0, g: 1, b: 0, a: 0}
+    - Vector2_D143D63C: {r: 1, g: 1, b: 0, a: 0}
